@@ -37,6 +37,7 @@ GRANT ALL PRIVILEGES ON blog_db.* TO 'blog_user'@'localhost';
 FLUSH PRIVILEGES;
 
 5. Apply migrations(if any changes to data model)
+cd blogproject
 python manage.py makemigrations
 python manage.py migrate
 
