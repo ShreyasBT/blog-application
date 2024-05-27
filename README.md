@@ -20,7 +20,7 @@ This is a simple blog application where users can:
 ```bash
 
 1. Clone the repository
-git clone https://github.com/yourusername/blog-application.git
+git clone https://github.com/ShreyasBT/blog-application.git
 cd blog-application
 
 2. Set up virtual environment
